@@ -49,8 +49,9 @@
 
 ## Django Forms e  Views
 
-[Assista o video](https://www.youtube.com/watch?v=CHAubzPmfaY&list=PLwIaU1DGYV6skjkahOKtpgs9bPXlrVrIp&index=29) - Aula 4 e 5 e [veja os slides](https://daniel-hasan.github.io/cefet-web-grad/classes/python5). Faça as práticas 1 e 2 do slide. 
-    - Atenção também aos tópicos 5, 6 e 7 da aula 5 (testes unitários). 
+- Antes dessa prática,  [analise este repositório](https://github.com/daniel-hasan/django-toy-example) e [leia a diferença entre GET e POST](https://github.com/daniel-hasan/django-toy-example/blob/master/docs/django_views.md). Veja e execute o exemplo neste repositório. 
+- Logo após, [Assista o video](https://www.youtube.com/watch?v=CHAubzPmfaY&list=PLwIaU1DGYV6skjkahOKtpgs9bPXlrVrIp&index=29) - Aula 5 e [veja os slides](https://daniel-hasan.github.io/cefet-web-grad/classes/python5). Faça as práticas 1 e 2 do slide. 
+    - Atenção também aos tópicos 5, 6 e 7 da aula (testes unitários e uso de Ajax). 
 
 
 # Processamento de Linguagem Natural
