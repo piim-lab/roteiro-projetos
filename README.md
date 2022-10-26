@@ -44,12 +44,12 @@
 
 ## Django Templates
 
-[Assista o video](https://www.youtube.com/watch?v=--1KwDBqhN8&list=PLwIaU1DGYV6skjkahOKtpgs9bPXlrVrIp&index=11) e [veja os slides](https://daniel-hasan.github.io/cefet-web-grad/classes/python4). Faça os exercícios no final do slide.
+[Assista o video](https://www.youtube.com/watch?v=mVDPkyIs7nk&list=PLwIaU1DGYV6skjkahOKtpgs9bPXlrVrIp&index=24) e [veja os slides](https://daniel-hasan.github.io/cefet-web-grad/classes/python4). Faça os exercícios no final do slide.
 
 
 ## Django Forms e  Views
 
-[Assista o video](https://www.youtube.com/watch?v=mVDPkyIs7nk&list=PLwIaU1DGYV6skjkahOKtpgs9bPXlrVrIp&index=24) - Aula 4 e 5 e [veja os slides](https://daniel-hasan.github.io/cefet-web-grad/classes/python5). Faça as práticas 1 e 2 do slide. 
+[Assista o video](https://www.youtube.com/watch?v=CHAubzPmfaY&list=PLwIaU1DGYV6skjkahOKtpgs9bPXlrVrIp&index=29) - Aula 4 e 5 e [veja os slides](https://daniel-hasan.github.io/cefet-web-grad/classes/python5). Faça as práticas 1 e 2 do slide. 
     - Atenção também aos tópicos 5, 6 e 7 da aula 5 (testes unitários). 
 
 
